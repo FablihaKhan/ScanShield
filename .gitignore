@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Never commit patient data, keys or pipeline outputs
+*.doc
+*.docx
+*.dcm
+*.csv
+*.jsonl
+*.json
+*.enc
+*.key
+*.pdf
+Nayon/
+Nayon_secure/
+Nayon_keys/
+Nayon_research/

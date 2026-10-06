@@ -1,0 +1,4 @@
+cryptography>=42
+olefile>=0.46
+pydicom>=2.4
+# external: antiword.exe (ships with Git for Windows: <Git>\mingw64\bin\antiword.exe)
