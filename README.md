@@ -1,4 +1,6 @@
-# Radiology Report De-identification Pipeline
+# ScanShield
+
+Privacy protection for hospital radiology reports.
 
 This is the code I wrote for my thesis work on privacy-preserving clinical data. It takes a collection of hospital radiology reports (CT, HRCT and a few X-ray reports saved as old Word `.doc` files) and turns them into a dataset researchers can use without seeing who the patients are.
 
